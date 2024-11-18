@@ -125,4 +125,4 @@ The **Club Details App** is designed to help clubs manage and share essential in
 
 1. **Clone the Repository**  
    ```bash  
-   git clone https://github.com/yourusername/ClubDetailsApp.git  
+   git clone https://github.com/NayamulNirob/AndroidStudio_JAVA_Projects 
