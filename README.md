@@ -17,17 +17,10 @@ Healthify is a lightweight, user-friendly app designed to help you track and man
 ## 💻 Technologies Used  
 | Technology                                  | Description                               |  
 |---------------------------------------------|-------------------------------------------|  
-| <img src="https://www.sqlite.org/images/sqlite370_banner.gif" alt="SQLite Logo" width="100" height="80"/> | **SQLite** for local database storage.   | 
-| <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Android_Studio_Trademark.svg" alt="Android Studio Logo" width="100" height="80" /> | **Android Studio** for development and testing. | 
-| <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Logo" width="100" height="80"/> | **Java** for backend and integration logic. |  
+| <img src="https://www.sqlite.org/images/sqlite370_banner.gif" alt="SQLite Logo" width="100" height="90"/> | **SQLite** for local database storage.   | 
+| <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Android_Studio_Trademark.svg" alt="Android Studio Logo" width="100" height="90" /> | **Android Studio** for development and testing. | 
+| <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Logo" width="100" height="90"/> | **Java** for backend and integration logic. |  
 
-
-## 💻 Technologies Used  
-| Technology                                   | Description                               |  
-|---------------------------------------------|-------------------------------------------|  
-| ![SQLite](https://www.sqlite.org/images/sqlite370_banner.gif) | **SQLite** for local database storage.   |  
-| ![Android Studio](https://upload.wikimedia.org/wikipedia/commons/9/92/Android_Studio_Trademark.svg) | **Android Studio** for development and testing. |  
-| ![Java](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg) | **Java** for backend and integration logic. |  
 
 ---
 
