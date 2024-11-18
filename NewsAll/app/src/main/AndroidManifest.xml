@@ -15,6 +15,15 @@
         android:theme="@style/Theme.NewsAll"
         tools:targetApi="31">
         <activity
+            android:name=".JayJayDin"
+            android:exported="false" />
+        <activity
+            android:name=".TheFinancialExpress"
+            android:exported="false" />
+        <activity
+            android:name=".BonikBarta"
+            android:exported="false" />
+        <activity
             android:name=".BusinessStandard"
             android:exported="false" />
         <activity

@@ -4,11 +4,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.widget.Button;
 
-import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.core.graphics.Insets;
-import androidx.core.view.ViewCompat;
-import androidx.core.view.WindowInsetsCompat;
 
 public class Dashbord extends AppCompatActivity {
 
@@ -19,6 +15,13 @@ public class Dashbord extends AppCompatActivity {
     private Button btndw;
 
     private Button btnbusiness;
+
+    private Button btnbonikbarta;
+
+    private Button btnfinancial;
+
+    private Button btnjayjaydin;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -49,6 +52,27 @@ public class Dashbord extends AppCompatActivity {
             Intent intent=new Intent(getApplicationContext(),BusinessStandard.class);
             startActivity(intent);
         });
+
+
+        btnbonikbarta=findViewById(R.id.btnbonikbarta);
+        btnbonikbarta.setOnClickListener(view -> {
+            Intent intent=new Intent(getApplicationContext(),BonikBarta.class);
+            startActivity(intent);
+        });
+
+        btnfinancial=findViewById(R.id.btnfinancial);
+        btnfinancial.setOnClickListener(view -> {
+            Intent intent=new Intent(getApplicationContext(),TheFinancialExpress.class);
+            startActivity(intent);
+        });
+
+
+        btnjayjaydin=findViewById(R.id.btnjayjaydin);
+        btnjayjaydin.setOnClickListener(view -> {
+            Intent intent=new Intent(getApplicationContext(), JayJayDin.class);
+            startActivity(intent);
+        });
+
 
 
     }
