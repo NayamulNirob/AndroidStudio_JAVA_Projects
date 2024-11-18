@@ -43,11 +43,6 @@ Healthify is a lightweight, user-friendly app designed to help you track and man
    ```bash  
    git clone https://github.com/NayamulNirob/AndroidStudio_JAVA_Projects
 
-
-
-
-
-
      
 # 📰 NewsAll  
 
@@ -87,9 +82,6 @@ NewsAll is a simple and efficient news aggregator application that brings the la
 1. **Clone the Repository**  
    ```bash  
    git clone https://github.com/NayamulNirob/AndroidStudio_JAVA_Projects
-
-
-
 
 
 # 🎉 Club Details App(Learning)  
