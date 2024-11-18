@@ -25,7 +25,11 @@ Healthify is a lightweight, user-friendly app designed to help you track and man
 
 | Home Screen                                 | Health Records                              |  
 |---------------------------------------------|---------------------------------------------|  
-| ![Home Screen](assets/screenshots/home.png) | ![Health Records](assets/screenshots/records.png) |  
+| ![Home Screen](assets/screenshots/home.png) | ![Health Records](assets/screenshots/records.png) |
+|![login_page](https://github.com/user-attachments/assets/096db0a7-56cd-4c82-92d6-2d4daa8f7b00)| ![registration_page](https://github.com/user-attachments/assets/78352290-045c-4986-9c2d-f9422578f05b)|
+
+
+
 
 
 ## 🚀 Installation  
