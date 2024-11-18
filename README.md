@@ -171,7 +171,7 @@ Real Estate Finder is an intuitive application designed to make property searche
 
 1. **Clone the Repository**  
    ```bash  
-   git clone https://github.com/yourusername/RealEstateFinder.git  
+   git clone https://github.com/NayamulNirob/AndroidStudio_JAVA_Projects 
 
 
 
