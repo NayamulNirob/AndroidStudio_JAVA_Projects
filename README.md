@@ -63,17 +63,25 @@ NewsAll is a simple and efficient news aggregator application that brings the la
 
 ## 💻 Technologies Used  
 
-| Technology                                   | Description                                   |  
-|---------------------------------------------|-----------------------------------------------|  
-| <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Android_Studio_Trademark.svg" alt="Android Studio Logo" width="100"/> | **Android Studio** for app development.      |  
-| <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Logo" width="100"/> | **Java** for backend logic and integration.  |  
-| <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Android_logo_2019_%28stacked%29.svg" alt="Android Logo" width="100"/> | **Android WebView** for in-app browsing.     |  
+## 💻 Technologies Used  
+| Technology                                  | Description                               |  
+|---------------------------------------------|-------------------------------------------|  
+| <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Android_Studio_Trademark.svg" alt="Android Studio Logo" width="120" height="100" /> | **Android Studio** for development and testing. | 
+| <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Logo" width="120" height="100"/> | **Java** for backend and integration logic. |  
 
 ---
+
+## 📸 Screenshots  
+
+| LogIn Screen                                | Registration Screen                         |   Home Screen                               |
+|---------------------------------------------|---------------------------------------------|---------------------------------------------|  
+|![lunching logo](https://github.com/user-attachments/assets/87cdff37-62e4-459e-8ba5-a150368d24ca)|![home_page](https://github.com/user-attachments/assets/12107179-ae73-40e6-aea7-fdc39f36df56)|![BD_news_page](https://github.com/user-attachments/assets/c3d9c40a-7971-400d-9dbd-f4af4f902284)|
+|![dhaka_tribune_page](https://github.com/user-attachments/assets/71f3af90-5d59-46ae-9549-a5b6daf6233f)|![Dw_page](https://github.com/user-attachments/assets/a14dfcc3-8a33-40db-80ac-81262501c03d)|![business_standard_page](https://github.com/user-attachments/assets/7b361c5e-dd4a-464e-9645-f85cfe8009b7)|
+
 
 ## 🚀 Installation  
 
 1. **Clone the Repository**  
    ```bash  
-   git clone https://github.com/yourusername/NewsAll.git  
+   git clone https://github.com/NayamulNirob/AndroidStudio_JAVA_Projects
 
