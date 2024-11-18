@@ -62,8 +62,6 @@ NewsAll is a simple and efficient news aggregator application that brings the la
 ---
 
 ## 💻 Technologies Used  
-
-## 💻 Technologies Used  
 | Technology                                  | Description                               |  
 |---------------------------------------------|-------------------------------------------|  
 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Android_Studio_Trademark.svg" alt="Android Studio Logo" width="120" height="100" /> | **Android Studio** for development and testing. | 
@@ -73,7 +71,7 @@ NewsAll is a simple and efficient news aggregator application that brings the la
 
 ## 📸 Screenshots  
 
-| LogIn Screen                                | Registration Screen                         |   Home Screen                               |
+| launcher icon                               |  Home Screen                                |   News Screen                               |
 |---------------------------------------------|---------------------------------------------|---------------------------------------------|  
 |![lunching logo](https://github.com/user-attachments/assets/87cdff37-62e4-459e-8ba5-a150368d24ca)|![home_page](https://github.com/user-attachments/assets/12107179-ae73-40e6-aea7-fdc39f36df56)|![BD_news_page](https://github.com/user-attachments/assets/c3d9c40a-7971-400d-9dbd-f4af4f902284)|
 |![dhaka_tribune_page](https://github.com/user-attachments/assets/71f3af90-5d59-46ae-9549-a5b6daf6233f)|![Dw_page](https://github.com/user-attachments/assets/a14dfcc3-8a33-40db-80ac-81262501c03d)|![business_standard_page](https://github.com/user-attachments/assets/7b361c5e-dd4a-464e-9645-f85cfe8009b7)|
