@@ -21,6 +21,15 @@ Healthify is a lightweight, user-friendly app designed to help you track and man
 
 ---
 
+## 💻 Technologies Used  
+| Technology                                   | Description                               |  
+|---------------------------------------------|-------------------------------------------|  
+| ![SQLite](https://www.sqlite.org/images/sqlite370_banner.gif) | **SQLite** for local database storage.   |  
+| ![Android Studio](https://upload.wikimedia.org/wikipedia/commons/9/92/Android_Studio_Trademark.svg) | **Android Studio** for development and testing. |  
+| ![Java](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg) | **Java** for backend and integration logic. |  
+
+---
+
 ## 📸 Screenshots  
 
 | LogIn Screen                                | Registration Screen                         |   Home Screen                               |
