@@ -9,7 +9,6 @@ Healthify is a lightweight, user-friendly app designed to help you track and man
 - 🩺 **Personalized Health Records**: Track your medical history, medications, and appointments.  
 - 📶 **Offline Access**: Local storage with SQLite ensures your data is always available.  
 - 👩‍💻 **User-Friendly Interface**: Intuitive and easy-to-navigate design.  
-- ⏰ **Custom Reminders**: Stay on top of medications and appointments.  
 - 🔒 **Data Privacy**: Your data stays secure on your device.  
 
 ---
