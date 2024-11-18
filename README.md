@@ -43,6 +43,11 @@ Healthify is a lightweight, user-friendly app designed to help you track and man
    ```bash  
    git clone https://github.com/NayamulNirob/AndroidStudio_JAVA_Projects
 
+
+
+
+
+
      
 # 📰 NewsAll  
 
@@ -83,3 +88,49 @@ NewsAll is a simple and efficient news aggregator application that brings the la
    ```bash  
    git clone https://github.com/NayamulNirob/AndroidStudio_JAVA_Projects
 
+
+
+
+
+# 🎉 Club Details App(Learning)  
+
+**A Club Management Application using Firebase for Real-Time Data and Push Notifications**  
+
+The **Club Details App** is designed to help clubs manage and share essential information efficiently. With real-time updates powered by Firebase and push notifications, this app ensures members stay informed about events, announcements, and updates anytime, anywhere.  
+
+---
+
+## ✨ Features  
+
+- 📋 **Club Information Management**: Display details like club name, description, members, and events.  
+- 🔄 **Real-Time Data Access**: Firebase integration for instant updates on club activities and announcements.  
+- 🔔 **Push Notifications**: Notify members about upcoming events, announcements, and updates.  
+- 📱 **Responsive UI**: Intuitive design optimized for all Android devices.  
+- 🔒 **Secure Data**: Firebase ensures secure storage and access to data.  
+
+---
+
+## 💻 Technologies Used  
+
+| Technology                                   | Description                                   |  
+|---------------------------------------------|-----------------------------------------------|  
+| <img src="https://firebase.google.com/downloads/brand-guidelines/SVG/logo-logomark.svg" alt="Firebase Logo" width="100"/> | **Firebase** for real-time database and push notifications. |  
+| <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Android_Studio_Trademark.svg" alt="Android Studio Logo" width="100"/> | **Android Studio** for development and testing.      |  
+| <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Logo" width="100"/> | **Java** for backend and logic implementation.  |  
+
+---
+
+## 📸 Screenshots  
+
+| launcher icon                               |  Home Screen                                |   Club Screen                               |
+|---------------------------------------------|---------------------------------------------|---------------------------------------------|  
+|![launcher icon](https://github.com/user-attachments/assets/2be80b46-8714-467a-87fe-f129885a655a)|![Home_page](https://github.com/user-attachments/assets/d1222515-08fb-44fc-9eef-aa29f679f168)|![Lions_club_page](https://github.com/user-attachments/assets/2dfd1213-29d1-40b7-8fe2-dd8b361570b9)|
+|![push_notification_page](https://github.com/user-attachments/assets/d073b41d-c1ab-4a2b-a55f-199638e45495)|![club_member_contact_page](https://github.com/user-attachments/assets/ee232a0b-008b-466f-9974-431e895833ae)|
+
+
+
+## 🚀 Installation  
+
+1. **Clone the Repository**  
+   ```bash  
+   git clone https://github.com/yourusername/ClubDetailsApp.git  
