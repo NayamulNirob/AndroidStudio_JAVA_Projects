@@ -19,12 +19,20 @@ Healthify is a lightweight, user-friendly app designed to help you track and man
 |------------|-------------|  
 | ![SQLite](https://www.sqlite.org/images/sqlite370_banner.gif) | **SQLite** for local database storage. |  
 
-
 ---
+
+## 📸 Screenshots  
+
+| Home Screen                                 | Health Records                              |  
+|---------------------------------------------|---------------------------------------------|  
+| ![Home Screen](assets/screenshots/home.png) | ![Health Records](assets/screenshots/records.png) |  
+
 
 ## 🚀 Installation  
 
 1. **Clone the Repository**  
    ```bash  
-   git clone https://github.com/yourusername/Healthify.git  
+   git clone https://github.com/NayamulNirob/AndroidStudio_JAVA_Projects
+
+     
 
