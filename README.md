@@ -37,24 +37,6 @@ Healthify is a lightweight, user-friendly app designed to help you track and man
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 🚀 Installation  
 
 1. **Clone the Repository**  
@@ -62,4 +44,36 @@ Healthify is a lightweight, user-friendly app designed to help you track and man
    git clone https://github.com/NayamulNirob/AndroidStudio_JAVA_Projects
 
      
+# 📰 NewsAll  
+
+**A News Aggregator Application Using Android WebView**  
+
+NewsAll is a simple and efficient news aggregator application that brings the latest updates from various sources into one convenient platform. Built using Android WebView, it provides a seamless browsing experience while keeping the app lightweight and fast.  
+
+---
+
+## ✨ Features  
+
+- 🌐 **Browse News from Multiple Sources**: Access a wide range of news websites without leaving the app.  
+- ⚡ **Lightweight and Fast**: Powered by Android WebView for a responsive user experience.  
+- 📱 **Mobile-Friendly Interface**: Optimized for Android devices with a clean and intuitive UI.  
+- 🔒 **Secure Browsing**: Implements modern WebView security features.  
+
+---
+
+## 💻 Technologies Used  
+
+| Technology                                   | Description                                   |  
+|---------------------------------------------|-----------------------------------------------|  
+| <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Android_Studio_Trademark.svg" alt="Android Studio Logo" width="100"/> | **Android Studio** for app development.      |  
+| <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Logo" width="100"/> | **Java** for backend logic and integration.  |  
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Android_logo_2019_%28stacked%29.svg" alt="Android Logo" width="100"/> | **Android WebView** for in-app browsing.     |  
+
+---
+
+## 🚀 Installation  
+
+1. **Clone the Repository**  
+   ```bash  
+   git clone https://github.com/yourusername/NewsAll.git  
 
